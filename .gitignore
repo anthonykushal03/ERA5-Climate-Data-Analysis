@@ -1,0 +1,9 @@
+# Downloaded climate data
+data/
+*.nc
+*.grib
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
