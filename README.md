@@ -24,6 +24,6 @@ The monthly climatology baseline performs better than the PCA regression.
 
 ## Data and libraries
 
-ERA5 NetCDF files are not included. Download them from the [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) and place them in the `data/` folder structure specified in the notebooks. Update `DATA_DIR` if needed.
+ERA5 NetCDF files are not included. Download them from the [Copernicus Climate Data Store]((https://cds.climate.copernicus.eu/datasets)) and place them in the `data/` folder structure specified in the notebooks. Update `DATA_DIR` if needed.
 
 **Libraries:** Python, Xarray, NumPy, Pandas, Matplotlib, Cartopy and Scikit-learn.
